@@ -1,0 +1,25 @@
+.maindiv {
+  max-width: 1440px;
+  width: 100%;
+  margin-inline: auto;
+}
+
+.mainHead {
+  width: 100%;
+  background-color: aqua;
+  padding: 20px 200px;
+  display: flex;
+  justify-content: space-around;
+
+}
+
+ul{
+    display: flex;
+    gap: 100px
+}
+
+
+.menu_bar,
+.close_x {
+  display: none;
+}
